@@ -139,8 +139,4 @@ The project achieved sentiment classification with varying accuracies across dif
 
 ## Author
 
-This project was developed as a submission for the Pengembangan Machine Learning course at Dicoding.
-
----
-
-*This README was last updated on May 9, 2025.*
+Muhammad Thariq
